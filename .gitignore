@@ -551,9 +551,6 @@ fastlane/test_output
 
 # ===== DOCKER =====
 # Docker
-.dockerignore
-Dockerfile*
-docker-compose*.yml
 
 # ===== TERRAFORM =====
 # Local .terraform directories
